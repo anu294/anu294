@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at LetsDoThis
+- 🔭 I’m currently working at Neo4J
 - 🌱 I’m currently learning how to write detailed articles on my learnings so far
 - 👯 I’m looking to collaborate on any JS/ Python based open-source
 - 🤔 I’m looking for help with learning how to work with AI 
